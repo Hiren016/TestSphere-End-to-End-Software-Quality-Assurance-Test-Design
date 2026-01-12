@@ -1,4 +1,4 @@
-# 🔍 TestSphere — End-to-End Software Quality Assurance & Test Design
+# 🔍 TestSphere — End to End Software Quality Assurance & Test Design
 
 **Technologies / Techniques:**  
 Manual Testing, IEEE 829 Test Documentation, Test Case Design, Defect Tracking, MS Excel, Jira, Code Collab
